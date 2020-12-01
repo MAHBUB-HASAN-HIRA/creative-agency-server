@@ -1,0 +1,8 @@
+#dependency
+node_modules/
+
+#global variable
+.env
+
+#firebase secret file
+creative-agency-101-firebase-adminsdk-djbge-2049716dc1.json
